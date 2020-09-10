@@ -10,7 +10,7 @@ export default function Menu(props) {
             <div>
                 <ul className={"navbar-nav sidebar sidebar-dark " + (props.toggleMenu ? "toggled" : "")} id="accordionSidebar" style={{ background: 'linear-gradient(to bottom, #AC3B61, #EDC7B7)', color: '#5A0028' }}>
                     <a to="/" className="sidebar-brand d-flex align-items-center justify-content-center" href="/">
-                        <div className="sidebar-brand-icon rotate-n-15">
+                        <div className="sidebar-brand-icon">
                             <img src="img/favcon.png" width="40" height="45" alt="" /></div>
                         <div className="sidebar-brand-text mx-3">Ticketing</div>
                     </a>
