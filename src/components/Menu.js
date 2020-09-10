@@ -12,7 +12,7 @@ export default function Menu(props) {
                     <a to="/" className="sidebar-brand d-flex align-items-center justify-content-center" href="/">
                         <div className="sidebar-brand-icon">
                             <img src="img/favcon.png" width="40" height="45" alt="" /></div>
-                        <div className="sidebar-brand-text mx-3">Ticketing</div>
+                        <div className="sidebar-brand-text mx-3">Ganye LGA Revenue Dashboard</div>
                     </a>
                     <hr className="sidebar-divider my-0" />
                     <li className="nav-item">
